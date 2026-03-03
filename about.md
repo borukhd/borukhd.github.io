@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-My private website.
+This is my private website.
 
-Professional website: [KIT](https://im.win.kit.edu/team_3778.php)
+You can find my professional website here: [KIT](https://im.win.kit.edu/team_3778.php)
+
 MSc Computer Science, MA Philosophy (University of Freiburg, Germany)
+
 Contact: david.borukhson[at]proton.me
