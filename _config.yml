@@ -3,4 +3,5 @@ title: personal blog
 description: Test description
 author: David Borukhson
 future: true
-collections_dir: ./posts
+#collections_dir: ./posts
+show_excerpts: true
