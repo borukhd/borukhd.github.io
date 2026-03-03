@@ -1,7 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: minima
 title: Science & Society
 author: David Borukhson
 future: true
 show_excerpts: true
-plugins:
-- jekyll-remote-theme 
